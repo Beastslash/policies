@@ -17,6 +17,7 @@ Do not reveal or threaten to reveal anyone's protected personal information.
 Protected personal information includes:
 * private addresses and GPS coordinates,
 * government-issued identification cards,
+* bank information,
 * non-public contact information, and
 * media featuring a person without their explicit permission.
 
