@@ -1,5 +1,5 @@
 # Beastslash Community Rules
-The Beastslash Community Rules apply to all players.
+The Beastslash Community Rules apply to everyone who use and make Beastslash's products and services.
 
 ## Unacceptable behaviors
 ### Cheating
