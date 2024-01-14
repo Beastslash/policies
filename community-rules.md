@@ -6,7 +6,7 @@ The Beastslash Community Rules apply to all players.
 You can mod our games to make them more accessible and enjoyable for you, but don't ruin the experience for other people. 
 
 ### Impersonating others
-You can roleplay as fictional characters, but don't impersonate anyone. 
+You can roleplay as fictional characters, but don't maliciously impersonate anyone. If you are parodying someone, make it clear that you are not actually that person.
 
 ### Personally attacking others
 Do not attack anyone based on their character.
